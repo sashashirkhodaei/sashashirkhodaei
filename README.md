@@ -9,6 +9,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com//Algorithms-Practice)
 - <b> Python </b>
+  - [Touchstone 4 Python Journal Project] 
   - [Rock, Paper, Siccors](https://github.com/sashashirkhodaei/RockPaperScissors)
 
 <h2>🧰 Languages and Tools:</h2>
