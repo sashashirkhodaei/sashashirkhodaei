@@ -8,7 +8,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com//Algorithms-Practice)
-- <b>First Python Project</b>
+- <b> Python </b>
   - [Rock, Paper, Siccors](https://github.com/sashashirkhodaei/RockPaperScissors)
 
 <h2>🧰 Languages and Tools:</h2>
