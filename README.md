@@ -2,7 +2,7 @@
 
 💻 I'm a Computer Science student, documenting my coding progress 
 
-🗣️ I speak 8 langauges: English, Farsi, German, Russian, Arabic, Czech, Dutch, and Norweigan
+🗣️ I speak 8 langauges: English, Farsi, Turkish, Russian, Czech, German, Dutch, and Norweigan
 
 <h2>👨🏻‍💻 Software Development Projects:</h2>
 
