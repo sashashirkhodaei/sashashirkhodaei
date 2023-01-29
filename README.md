@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sasha! 👋🏻 </h1>
 
-**`Digital Artisan (Developer/Polygot)`**
+**`Digital Artisan`**
 
 
 
