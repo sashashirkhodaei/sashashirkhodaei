@@ -16,10 +16,12 @@
 
 🎭 battling imposter syndrome 
 
-### Some of my hobby projects 
+### 🕸️ Web development projects 
+- [Landing page](https://github.com/sashashirkhodaei/landing-page)
+- [Recipe website](https://github.com/sashashirkhodaei/odin-recipes)
 - 
-- 
-- 
-- 
+### ☁️ Cloud engineering projects
 - 
 -
+-
+### 
