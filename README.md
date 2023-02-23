@@ -17,9 +17,9 @@
 🎭 battling imposter syndrome 
 
 ### 🕸️ Web development projects 
-- [Landing page](https://github.com/sashashirkhodaei/landing-page)
-- [Recipe website](https://github.com/sashashirkhodaei/odin-recipes)
-- 
+- [TOP - Landing page](https://github.com/sashashirkhodaei/landing-page)
+- [TOP - Recipe website](https://github.com/sashashirkhodaei/odin-recipes)
+- [Netflix Landing Page Clone](https://github.com/sashashirkhodaei/landing-page)
 ### ☁️ Cloud engineering projects
 - 
 -
