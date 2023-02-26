@@ -19,7 +19,7 @@
 ### 🕸️ Web development projects 
 - [TOP - Landing page](https://github.com/sashashirkhodaei/landing-page)
 - [Login Page](https://github.com/sashashirkhodaei/login-page)
-- [Netflix Landing Page Clone](https://github.com/sashashirkhodaei/landing-page)
+- [Netflix Landing Page Clone](https://github.com/sashashirkhodaei/netflix-landing-page-clone)
 ### ☁️ Cloud engineering projects
 - 
 -
