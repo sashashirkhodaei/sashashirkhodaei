@@ -17,11 +17,6 @@
 🎭 battling imposter syndrome 
 
 ### 🕸️ Web development projects 
-- [TOP - Landing page](https://github.com/sashashirkhodaei/landing-page)
+- [Starbucks Landing Page Clone](https://github.com/sashashirkhodaei/starbucks-landing-page-clone)
 - [Login Page](https://github.com/sashashirkhodaei/login-page)
 - [Netflix Landing Page Clone](https://github.com/sashashirkhodaei/netflix-landing-page-clone)
-### ☁️ Cloud engineering projects
-- 
--
--
-### 
